@@ -1,7 +1,12 @@
 # Journal Map
 <h2>A Journal Mobile Application Created With Flutter, SQLite and OpenStreetMap</h2>
 A journal app that allows you to create posts and add your location to them, so you can visualize your posts on a map.
-
+<br>
+<br>
+<p align="center"
+<picture>
+  <img alt="page" src="https://drive.google.com/uc?id=1tWWqi6qkW5mGjoXwkRfivRyZlbRldgSF" height="100px">
+</picture>
 <h2>OverView</h2>
 
 <h3>Home & Posts</h3> <br>
